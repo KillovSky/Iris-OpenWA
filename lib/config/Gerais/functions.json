@@ -1,0 +1,33 @@
+{
+	"antilinks": [],
+	"antinumbers": [],
+	"antiporn": [],
+	"autofoto": [],
+	"antitravas": [],
+	"autosticker": [],
+	"badwords": {},
+	"birthdays": {},
+	"blacklist": [],
+	"chatBot_Type": {},
+	"Disabled_Chats": [],
+	"event": [],
+	"fake": [],
+	"goodbye": [],
+	"guild": [
+		"COMPANIONS",
+		"THIEVES"
+	],
+	"levelup": [],
+	"media": [],
+	"mentions": [],
+	"mute": [],
+	"NoBG": {},
+	"nodelete": [],
+	"anylinks": [],
+	"nsfw": [],
+	"rank": [],
+	"safelinks": [],
+	"vips": {},
+	"whitelist": [],
+	"welcome": []
+}
